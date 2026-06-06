@@ -9,7 +9,7 @@ Le projet avance bien, mais il reste encore quelques étapes à franchir :
 Si vous souhaitez explorer le projet ou tester l'avancement, rien de plus simple. Une fois dans le répertoire, utilisez la commande suivante :
 Bash
 
-npm expo start
+    npm expo start
 
 🎯 Objectifs futurs
 
