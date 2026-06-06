@@ -8,7 +8,7 @@ Implémentation des Kan : C'est le prochain gros chantier. Les fu et les yaku sp
 
 Si vous souhaitez explorer le projet ou tester l'avancement, rien de plus simple. Une fois dans le répertoire, utilisez la commande suivante :
 
-    npm expo start
+    npx expo start
 
 🎯 Objectifs futurs
 
